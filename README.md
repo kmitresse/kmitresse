@@ -30,12 +30,12 @@ I'm passionate about web development and aspire to become a full-stack developer
 
 ![LaTeX](https://img.shields.io/static/v1?message=LaTeX&logo=LaTeX&logoColor=white&label=+&color=008080)
 
-**Frameworks I have used**
+**Frameworks and Environment I have used**
 
 ![Symfony](https://img.shields.io/static/v1?message=Symfony&logo=symfony&logoColor=white&label=+&color=000000)
 ![JAVAFX](https://img.shields.io/badge/JavaFX-cb2d2e)
 ![JPA](https://img.shields.io/badge/JPA-cb2d2e)
-
+![Node.js](https://img.shields.io/static/v1?message=Node.js&logo=nodedotjs&logoColor=white&label=+&color=5FA04E)
 
 **Some technologies I have worked with**
 
@@ -50,7 +50,6 @@ I'm passionate about web development and aspire to become a full-stack developer
 **Systems I have worked with**
 
 ![Linux](https://img.shields.io/static/v1?message=Linux&logo=linux&logoColor=white&label=+&color=FCC624)
-![Node.js](https://img.shields.io/static/v1?message=Node.js&logo=nodedotjs&logoColor=white&label=+&color=5FA04E)
 
 ## Some of my projects
 **Web/Full Stack projects**
